@@ -1,0 +1,8 @@
+{
+  "name": "data-list-mechine",
+  "version": "1.0.0",
+  "description": "Data List Mechine - HTML, JavaScript, Node.js",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "express": "^4.19.2" }
+}
